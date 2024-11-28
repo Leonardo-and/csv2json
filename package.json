@@ -1,0 +1,21 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "Convert a CSV file to a JSON file",
+  "main": "build/main.js",
+  "scripts": {
+    "start:dev": "tsx watch src/main.ts",
+    "start": "node build/main.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Leonardo-and",
+  "license": "ISC",
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.2.2",
+    "@types/node": "^22.10.0",
+    "eslint": "8",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

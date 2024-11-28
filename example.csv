@@ -1,0 +1,6 @@
+ID,Nome,Idade,Email,País,Data de Cadastro,Status
+101,Alice Silva,25,alice.silva@example.com,Brasil,2023-01-15,Ativo
+102,Bruno Lima,32,bruno.lima@example.com,Portugal,2023-02-20,Inativo
+103,Carla Souza,28,carla.souza@example.com,Brasil,2023-03-10,Ativo
+104,Diego Costa,24,diego.costa@example.com,Espanha,2023-04-05,Ativo
+105,Evelyn Santos,29,evelyn.santos@example.com,Brasil,2023-05-12,Inativo
