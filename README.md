@@ -1,0 +1,2 @@
+CSV to JSON Converter
+This is a simple CSV to JSON converter built with Node.js. The goal is to provide an easy-to-use tool for converting CSV data into JSON format, making it easier to process data in various applications.
